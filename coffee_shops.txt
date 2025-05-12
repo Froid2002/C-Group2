@@ -1,0 +1,93 @@
+Tongindong Coffee Workshop,Historical & Cultural Attractions,Gyeongbokgung Palace
+Seoul Coffee Sanghoe,Historical & Cultural Attractions,Gyeongbokgung Palace
+Ma Chance,Historical & Cultural Attractions,Gyeongbokgung Palace
+Gabaedo Samcheong Branch,Historical & Cultural Attractions,Gyeongbokgung Palace
+Layered Bukchon,Historical & Cultural Attractions,Gyeongbokgung Palace
+Café Onion Anguk,Historical & Cultural Attractions,Changdeokgung Palace
+Dawon Traditional Tea Garden,Historical & Cultural Attractions,Changdeokgung Palace
+Insadong Chatjip,Historical & Cultural Attractions,Changdeokgung Palace
+Cha Masineun Tteul,Historical & Cultural Attractions,Changdeokgung Palace
+Osulloc Tea House,Historical & Cultural Attractions,Changdeokgung Palace
+E-Chae Café,Historical & Cultural Attractions,Bukchon
+Café 88st,Historical & Cultural Attractions,Bukchon
+Gyeongbokgung Bbang,Historical & Cultural Attractions,Bukchon
+Coffee Mill,Historical & Cultural Attractions,Bukchon
+Cha-Teul,Historical & Cultural Attractions,Bukchon
+Osulloc Tea House,Historical & Cultural Attractions,Insadong
+Café Yeonnam Bangagan,Historical & Cultural Attractions,Insadong
+Café Goghi,Historical & Cultural Attractions,Insadong
+Yetchatjip,Historical & Cultural Attractions,Insadong
+Moon Bird Only Thinks of the Moon,Historical & Cultural Attractions,Insadong
+Paul Bassett Café,Unique & Fun Attractions,Lotte World  
+Sulbing Korean Dessert Café,Unique & Fun Attractions,Lotte World  
+Twosome Place,Unique & Fun Attractions,Lotte World  
+Gong Cha,Unique & Fun Attractions,Lotte World  
+Treeble House,Unique & Fun Attractions,Lotte World  
+Starbucks,Unique & Fun Attractions,COEX Mall & Starfield Library  
+Terarosa Coffee,Unique & Fun Attractions,COEX Mall & Starfield Library  
+Grand Kitchen Café,Unique & Fun Attractions,COEX Mall & Starfield Library  
+Smoothie King,Unique & Fun Attractions,COEX Mall & Starfield Library  
+Mobaksa Budaejjigae,Unique & Fun Attractions,COEX Mall & Starfield Library  
+Starbucks Aegibong Observatory,Unique & Fun Attractions,DMZ Tour  
+DMZ Peace Café,Unique & Fun Attractions,DMZ Tour  
+Café Imjingak,Unique & Fun Attractions,DMZ Tour  
+Bridge View Café,Unique & Fun Attractions,DMZ Tour  
+Peace & Coffee,Unique & Fun Attractions,DMZ Tour  
+Café Onion,Unique & Fun Attractions,Gwangjang Market  
+Anthracite Coffee,Unique & Fun Attractions,Gwangjang Market  
+Café Bora,Unique & Fun Attractions,Gwangjang Market  
+Café Mamas,Unique & Fun Attractions,Gwangjang Market  
+Café Yeonnam-dong,Unique & Fun Attractions,Gwangjang Market  
+Café Tenkaichi,Unique & Fun Attractions,Noryangjin Fish Market  
+Captain Son Café,Unique & Fun Attractions,Noryangjin Fish Market  
+Jeolla Sanghoe Café,Unique & Fun Attractions,Noryangjin Fish Market  
+Jinju Café,Unique & Fun Attractions,Noryangjin Fish Market  
+Suncheon House Café,Unique & Fun Attractions,Noryangjin Fish Market  
+Starbucks Myeongdong-gil Branch,Modern & Trendy,Myeongdong  
+Coffee Hanyakbang,Modern & Trendy,Myeongdong  
+Hollys Coffee Myeongdong Central Branch,Modern & Trendy,Myeongdong  
+A Twosome Place Myeongdong Cathedral Branch,Modern & Trendy,Myeongdong  
+Luft Coffee Myeongdong Branch,Modern & Trendy,Myeongdong  
+Ojado,Modern & Trendy,Dongdaemun Design Plaza  
+Space Cor,Modern & Trendy,Dongdaemun Design Plaza  
+J Hidden House,Modern & Trendy,Dongdaemun Design Plaza  
+Coffee Hanyakbang,Modern & Trendy,Dongdaemun Design Plaza  
+Cafe Onion Anguk,Modern & Trendy,Dongdaemun Design Plaza  
+ASB Cafe,Modern & Trendy,Itaewon  
+Flattron,Modern & Trendy,Itaewon  
+The Bakers Table,Modern & Trendy,Itaewon  
+HD Cafe,Modern & Trendy,Hongdae  
+Jakdangmoui,Modern & Trendy,Hongdae  
+Coffee Lab Blooming,Modern & Trendy,Hongdae  
+Belief Coffee,Modern & Trendy,Hongdae  
+Ronnefeldt Tea House Seolleung Branch,Modern & Trendy,Gangnam  
+Cafe Mamas Gangnam Branch,Modern & Trendy,Gangnam  
+Anthracite Gangnam Branch,Modern & Trendy,Gangnam
+Taegeukdang Bakery,Nature & Scenic,N Seoul Tower
+Twelve Namsan,Nature & Scenic,N Seoul Tower
+Tous Les Jours L’atelier,Nature & Scenic,N Seoul Tower
+Oriole Cafe,Nature & Scenic,N Seoul Tower
+Coffee Nap Roasters,Nature & Scenic,N Seoul Tower
+Mulgyul Hangang,Nature & Scenic,Han River Parks
+Starbucks at Seoul Wave Art Center,Nature & Scenic,Han River Parks
+The Hangang,Nature & Scenic,Han River Parks
+River Coffee,Nature & Scenic,Han River Parks
+TYPE Coffee Hangang,Nature & Scenic,Han River Parks
+Pointvill Cafe,Nature & Scenic,Bukhansan National Park
+Relax Cafe,Nature & Scenic,Bukhansan National Park
+Seounun Sanjang,Nature & Scenic,Bukhansan National Park
+Café Sunwoongak,Nature & Scenic,Bukhansan National Park
+Woody Plate,Nature & Scenic,Bukhansan National Park
+Teddy’s Oven,Nature & Scenic,Seoul Forest
+Onryang,Nature & Scenic,Seoul Forest
+Nampo,Nature & Scenic,Seoul Forest
+Fine Waffle,Nature & Scenic,Seoul Forest
+Zesty Saloon Seongsu,Nature & Scenic,Seoul Forest
+Cafe Soopong,Nature & Scenic,Haneul Park
+Cafe Haneul,Nature & Scenic,Haneul Park
+Gureum Cafe,Nature & Scenic,Haneul Park
+Dongjak Noeul Cafe,Nature & Scenic,Haneul Park
+Aqua Aquarium Cafe,Nature & Scenic,Haneul Park
+Sunmoon Coffee,Modern,Cheonan
+juju,happy,Aye
+khant,modern,chenon
