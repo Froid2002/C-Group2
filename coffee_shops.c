@@ -38,9 +38,8 @@ void addCoffeeShop(const char* name, const char* vibe, const char* location) {
     strncpy(newShop->location, location, sizeof(newShop->location) - 1);
     newShop->location[sizeof(newShop->location) - 1] = '\0';
 
-    // Não precisa mais do next
 
-    HASH_ADD_STR(shopTable, name, newShop);  // Adiciona direto na hash
+    HASH_ADD_STR(shopTable, name, newShop);  
 }
 
 
